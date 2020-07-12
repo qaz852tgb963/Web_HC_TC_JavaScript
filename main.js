@@ -10,3 +10,15 @@ console.log('A**3='+a);
 function AAA(){
  console.log('');
 }
+
+
+
+
+var countA=10;
+// let countA=10;
+
+{
+     let countA=99;
+    console.log(countA);
+}
+console.log(countA);
